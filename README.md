@@ -14,7 +14,7 @@ The dataset consists of **50,000 IMDB movie reviews** labeled as positive or neg
 - **Review:** The text content of the movie review  
 - **Sentiment:** Label of the review (1 = positive, 0 = negative)  
 
-Here is the link to the dataset:  [IMDB Reviews Dataset on Kaggle]([https://www.aclweb.org/anthology/P11-1015/](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)) 
+Here is the link to the dataset: [IMDB Reviews Dataset on Kaggle](https://www.aclweb.org/anthology/P11-1015/](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) 
 ---
 
 ## Exploratory Data Analysis (EDA)
